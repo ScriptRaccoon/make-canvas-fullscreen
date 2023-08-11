@@ -1,0 +1,10 @@
+{
+	"name": "make-canvas-fullscreen",
+	"version": "1.0.1",
+	"description": "Simple utility to make a canvas fullscreen, regardless of window size",
+	"main": "index.js",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
